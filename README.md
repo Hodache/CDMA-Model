@@ -1,1 +1,3 @@
 # CDMA-Model
+
+Нужен numpy
